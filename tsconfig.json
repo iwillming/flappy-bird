@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "emitDeclarationOnly": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "declarationDir": "types",
+    "isolatedModules": true,
+    "stripInternal": true,
+    "incremental": false,
+    "skipLibCheck": true,
+    "declaration": true,
+    "target": "esnext",
+    "module": "esnext",
+    "sourceMap": true,
+    "jsx": "react"
+  },
+  "include": ["src/**/*", "typings.d.ts"]
+}
