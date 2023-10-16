@@ -1,12 +1,12 @@
-English | [中文](./docs/README-zh-cn.md)
+[English](../README.md) | 中文
 
-# Introduction
+# 介绍
 
-A very new galacean demo for bird game: Flappy Bird
+这是一个最新的 galacean 引擎 demo，编写了经典的小鸟游戏：Flappy Bird
 
-We need nodejs at last 18+.
+nodejs 至少需要 18+.
 
-dependencies：
+生产依赖：
 | dependencies | version |
 |----|----|
 | nodejs                            | ^18            |
@@ -17,7 +17,7 @@ dependencies：
 | react                             | ^18.2.0        |
 | react-dom                         | ^18.2.0        |
 
-devDependencies：
+开发依赖：
 | devDependencies | version |
 |----|----|
 | nodejs                            | ^18            |
@@ -31,33 +31,33 @@ devDependencies：
 
 # Getting start
 
-install node modules:
+安装 node modules：
 
 ```bash
 npm install
 ```
 
-run dev server:
+本地运行：
 
 ```bash
 npm run dev
 ```
 
-# build & preview
+# 编译 & 预览
 
-install node modules:
+安装 node modules：
 
 ```bash
 npm install
 ```
 
-build project:
+编译项目:
 
 ```bash
 npm run build
 ```
 
-preview project:
+预览项目:
 
 ```bash
 npm run preview
