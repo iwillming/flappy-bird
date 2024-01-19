@@ -10,9 +10,9 @@ dependencies：
 | dependencies | version |
 |----|----|
 | nodejs                            | ^18            |
-| @galacean/engine                  | ^1.2.0-alpha.3 |
-| @galacean/engine-physics-lite     | ^1.2.0-alpha.3 |
-| @galacean/engine-toolkit-controls | ^1.2.0-alpha.4 |
+| @galacean/engine                  | ^1.2.0-alpha.4 |
+| @galacean/engine-physics-lite     | ^1.2.0-alpha.4 |
+| @galacean/engine-toolkit-controls | ^1.2.0-alpha.5 |
 | @tweenjs/tween.js                 | ^21.0.0        |
 | react                             | ^18.2.0        |
 | react-dom                         | ^18.2.0        |
