@@ -10,9 +10,9 @@ dependencies：
 | dependencies | version |
 |----|----|
 | nodejs                            | ^18            |
-| @galacean/engine                  | ^1.2.0-alpha.4 |
-| @galacean/engine-physics-lite     | ^1.2.0-alpha.4 |
-| @galacean/engine-toolkit-controls | ^1.2.0-alpha.5 |
+| @galacean/engine                  | ^1.2.0-beta.1  |
+| @galacean/engine-physics-lite     | ^1.2.0-beta.1  |
+| @galacean/engine-toolkit-controls | ^1.2.0-beta.1  |
 | @tweenjs/tween.js                 | ^21.0.0        |
 | react                             | ^18.2.0        |
 | react-dom                         | ^18.2.0        |
@@ -21,13 +21,13 @@ devDependencies：
 | devDependencies | version |
 |----|----|
 | nodejs                            | ^18            |
-| @types/react                      | ^18.2.46       |
-| @types/react-dom                  | ^18.2.18       |
+| @types/react                      | ^18.2.67       |
+| @types/react-dom                  | ^18.2.22       |
 | @vitejs/plugin-react              | ^4.2.1         |
 | body-parser                       | ^1.20.2        |
-| express                           | ^4.18.2        |
-| typescript                        | ^5.3.3         |
-| vite                              | ^5.0.10        |
+| express                           | ^4.18.3        |
+| typescript                        | ^5.4.2         |
+| vite                              | ^5.1.6         |
 
 # Getting start
 
